@@ -1,0 +1,13 @@
+{
+    "name": "whh/yii2-captcha",
+    "description": "yii2 captcha",
+    "type": "library",
+    "authors": [
+        {
+            "name": "wuhaohui",
+            "email": "haohui.wu@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
